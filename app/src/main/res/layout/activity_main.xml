@@ -61,11 +61,27 @@
         android:layout_height="wrap_content"
         android:id="@+id/forgotpass"
         android:layout_below="@id/loginbtn"
-        android:text="Forget Password"
-        android:textColor="white"
+        android:text="Forget Password ?"
         android:textcolor="@color/white"
         android:layout_centerHorizontal="true"
         android:layout_margin="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/others"
+        android:text="Or Sign in with"
+        android:layout_centerHorizontal="true"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+    
+  <ImageView
+      android:layout_width="48"
+      android:layout_height=""
 
 
 
